@@ -87,7 +87,7 @@ table {
   margin-block-end: 20px;
 }
 thead {
-  background-color: aqua;
+  background-color: lightgreen;
 }
 button{
   display: block;
